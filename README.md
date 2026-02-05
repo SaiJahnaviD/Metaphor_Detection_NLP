@@ -3,7 +3,8 @@
 
 ## Code Execution Steps
 
-1. Download the dataset from Kaggle which is available under the [link](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/data). And make sure that this folder will be present in the folder `data`. Another file that is required for the model training is the labels / annotations file, which is present can be downloaded from [link](https://drive.google.com/file/d/1wAAZwDsHKhotxFkOYJAI57Z-LHxkiyBA/view?usp=drive_link). Place the annotations file in the `data` folder as well. So upon completing downlaod and code extraction the folder structure should look like -
+1. Download the dataset from Kaggle which is available under the [link](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/data). And make sure that this folder will be present in the folder `data`.
+Another file that is required for the model training is the labels / annotations file, which is present can be downloaded from [link](https://drive.google.com/file/d/1wAAZwDsHKhotxFkOYJAI57Z-LHxkiyBA/view?usp=drive_link). Place the annotations file in the `data` folder as well. So upon completing downlaod and code extraction the folder structure should look like -
 
 
 ## 📁 Project Structure
